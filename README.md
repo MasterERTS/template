@@ -1,4 +1,3 @@
-![github-ci](https://github.com/master-coro/template/workflows/github-ci/badge.svg)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
